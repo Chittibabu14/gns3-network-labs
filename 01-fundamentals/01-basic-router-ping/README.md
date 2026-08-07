@@ -93,6 +93,9 @@ PC1> ping 192.168.2.1
 🎉 **Result:** `0% packet loss` means `PC1` successfully reached `PC2` through Router `R1`!
 
 ---
+  <img width="593" height="559" alt="Ping_topology" src="https://github.com/user-attachments/assets/8eab63fc-a933-4841-ad3f-d8ab50fd380c" />
+
+
 
 ## 🔍 Packet Capture (Wireshark)
 
