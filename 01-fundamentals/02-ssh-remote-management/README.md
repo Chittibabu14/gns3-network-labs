@@ -26,6 +26,9 @@ There are two main ways to log in remotely:
 
 ---
 
+<img width="583" height="210" alt="SSH_Topology" src="https://github.com/user-attachments/assets/d1559606-d5ef-43b3-b55d-5180b16b02fe" />
+
+
 ## 📋 Device Details
 
 | Device Name | Interface | IP Address | Domain Name | SSH User | SSH Status |
