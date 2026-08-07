@@ -1,0 +1,21 @@
+# GNS3 Project & Virtualization Ignore Rules
+*.tmp
+*.log
+*.vmdk
+*.qcow2
+*.bin
+*.image
+*.ghost
+*.lock
+
+# Ignore GNS3 temporary project directories
+project-files/dynamips/
+project-files/qemu/
+project-files/vpcs/*/vpcs.log
+project-files/vpcs/*/ubridge.log
+
+# OS & Editor generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
