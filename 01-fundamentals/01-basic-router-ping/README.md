@@ -94,6 +94,18 @@ PC1> ping 192.168.2.1
 
 ---
 
+## 🔍 Packet Capture (Wireshark)
+
+The raw Wireshark traffic capture file for this lab is saved in the repository:
+📁 **[`pcaps/icmp_ping_traffic.pcap`](./pcaps/icmp_ping_traffic.pcap)**
+
+### What you can see in this capture file:
+- **ARP Request/Reply:** `PC1` resolving Router `R1`'s MAC address before sending IP packets.
+- **ICMP Echo Request (Type 8):** Sent from `192.168.1.1` to `192.168.2.1`.
+- **ICMP Echo Reply (Type 0):** Sent back from `192.168.2.1` to `192.168.1.1`.
+
+---
+
 ## 🎓 Simple Takeaways (What I Learned)
 
 1. **Why `no shutdown` matters:** By default, router ports are turned OFF (`shutdown`). We must type `no shutdown` to turn them ON.

@@ -96,6 +96,19 @@ Banglore#
 
 ---
 
+## 🔍 Packet Capture (Wireshark)
+
+The raw Wireshark traffic capture file for this lab is saved in the repository:
+📁 **[`pcaps/ssh_session_traffic.pcap`](./pcaps/ssh_session_traffic.pcap)**
+
+### What you can see in this capture file:
+- **TCP 3-Way Handshake (`SYN`, `SYN-ACK`, `ACK`):** Establishes the TCP connection on Port `22`.
+- **SSH Protocol Negotiation:** Routers negotiate `SSH-2.0` protocol capabilities.
+- **Diffie-Hellman Key Exchange:** Exchanging keys to establish an encrypted tunnel.
+- **Encrypted Payload:** All subsequent user credentials, keystrokes, and output are completely encrypted.
+
+---
+
 ## 🎓 Simple Takeaways (What I Learned)
 
 1. **Prerequisites for SSH:** You MUST configure a **hostname**, a **domain name**, and generate **RSA crypto keys** before SSH will turn on.
