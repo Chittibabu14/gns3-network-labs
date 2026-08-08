@@ -25,8 +25,7 @@ Each lab directory follows a standardized, professional structure:
 
 ```text
 lab-name/
-├── README.md               <-- Detailed Lab Documentation (Topology, Objectives, Verification)
-├── topology.png            <-- GNS3 Diagram Screenshot
+├── README.md               <-- Detailed Lab Documentation (Topology, Objectives, Verification
 ├── configs/                <-- Cisco IOS Running Configurations (.cfg / .txt)
 └── pcaps/                  <-- Wireshark Traffic Captures (.pcap)
 ```
