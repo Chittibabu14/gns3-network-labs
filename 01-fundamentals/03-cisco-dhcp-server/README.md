@@ -62,6 +62,7 @@ When a client device connects to the network, it negotiates its IP address with 
                   │   [DHCP]   │    │   [DHCP]   │    │   [DHCP]   │
                   └────────────┘    └────────────┘    └────────────┘
 ```
+<img width="938" height="637" alt="image" src="https://github.com/user-attachments/assets/5c6b3921-6f98-4a09-91b3-59871953aa42" />
 
 ---
 
