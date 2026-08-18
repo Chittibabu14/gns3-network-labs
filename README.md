@@ -18,6 +18,30 @@ Welcome to my **GNS3 Network Engineering Portfolio**! This repository serves as 
 
 ---
 
+### 📂 Phase 2: Dynamic Routing Protocols *(In Progress)*
+| Lab # | Lab Title | Key Concepts / Protocols | Link |
+| :--- | :--- | :--- | :--- |
+| **Lab 04** | Single-Area OSPFv2 Basic Configuration | OSPF Process ID, Router ID, Wildcard Masks, Area 0, DR/BDR, Adjacency | [View Lab](./02-dynamic-routing/04-ospf-basic-lab/) |
+| **Lab 05** | Multi-Area OSPF & ABR Summarization | Area 0 (Backbone), Inter-Area Routing, LSA Types | *Coming Soon* |
+| **Lab 06** | BGP Basics & Dual-Homed ISP Connectivity | eBGP, AS Numbers, Route Advertisements | *Coming Soon* |
+
+---
+
+### 📂 Phase 3: Switching, VLANs & Layer 2 Security *(Upcoming)*
+| Lab # | Lab Title | Key Concepts / Protocols | Link |
+| :--- | :--- | :--- | :--- |
+| **Lab 07** | Inter-VLAN Routing (Router-on-a-Stick) | 802.1Q Trunking, Subinterfaces, Encapsulation | *Coming Soon* |
+| **Lab 08** | Switchport Security & DHCP Snooping | MAC Limit, Sticky MAC, Rogue DHCP Prevention, DAI | *Coming Soon* |
+| **Lab 09** | Spanning Tree Protocol (STP) Tuning | Root Bridge Election, BPDU Guard, PortFast | *Coming Soon* |
+
+---
+
+### 📂 Phase 4: Network Security, ACLs & VPNs *(Upcoming)*
+| Lab # | Lab Title | Key Concepts / Protocols | Link |
+| :--- | :--- | :--- | :--- |
+| **Lab 10** | Standard & Extended Access Control Lists (ACLs) | Packet Filtering, Inbound/Outbound ACLs, Port Blocking | *Coming Soon* |
+| **Lab 11** | Dynamic NAT & PAT (Port Address Translation) | Inside/Outside Interfaces, Public IP Overload | *Coming Soon* |
+| **Lab 12** | Site-to-Site IPsec VPN Tunnel | IKEv1/v2 Phase 1 & 2, Crypto Maps, AES Encryption | *Coming Soon* |
 
 ---
 
