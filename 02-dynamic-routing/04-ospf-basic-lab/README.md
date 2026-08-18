@@ -31,6 +31,7 @@ In small networks, static routes can handle traffic forwarding. But in real ente
 
               All routers: OSPF Process 110, Area 0
 ```
+![Uploading image.png…]()
 
 ---
 
